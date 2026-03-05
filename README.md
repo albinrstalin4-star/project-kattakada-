@@ -1,6 +1,5 @@
 # project-kattakada-
 
-![WhatsApp-Image-2023-02-15-at-7 16 45-PM](https://github.com/user-attachments/assets/b3835adc-fb05-46b9-bf17-a86e476e7c5e)
 
 <img width="1920" height="1080" alt="1000066353" src="https://github.com/user-attachments/assets/e9e9ab83-0aed-4ff7-8aad-48614ead16c1" />
 <img width="1920" height="1080" alt="1000066354" src="https://github.com/user-attachments/assets/00144daa-192e-4dbe-9aa2-6a46d970411e" />
