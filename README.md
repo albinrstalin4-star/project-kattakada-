@@ -1,4 +1,4 @@
-# project-kattakada-
+# project-AR virtual job stimulator
 
 
 <img width="1920" height="1080" alt="1000066353" src="https://github.com/user-attachments/assets/e9e9ab83-0aed-4ff7-8aad-48614ead16c1" />
